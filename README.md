@@ -19,4 +19,4 @@ The program outputs the rounded values of m1 and m2, representing the required a
 
 source for math equations: https://cdn.hackaday.io/files/1733257415536800/Educational%20Five-bar%20parallel%20robot_.pdf
 
-(ps yes i let chat gpt write this)
+(ps yes i let chat gpt write this(not the code tho))
